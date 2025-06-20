@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 90.4074,
+    "lat": 23.7104
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 32.31,
+    "feels_like": 38.8,
+    "temp_min": 32.31,
+    "temp_max": 32.31,
+    "pressure": 1001,
+    "humidity": 63,
+    "sea_level": 1001,
+    "grnd_level": 1001
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.16,
+    "deg": 173,
+    "gust": 7.74
+  },
+  "clouds": {
+    "all": 84
+  },
+  "dt": 1750401370,
+  "sys": {
+    "country": "BD",
+    "sunrise": 1750374717,
+    "sunset": 1750423669
+  },
+  "timezone": 21600,
+  "id": 1185241,
+  "name": "Dhaka",
+  "cod": 200
+}
